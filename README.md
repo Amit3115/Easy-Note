@@ -5,9 +5,7 @@
 # Features
 
   Add Note
-  
   Delete Note
-  
   Edit Note
 
 # Application Images
@@ -20,16 +18,16 @@
 
 This application will be able to take data input from the user using **LiveData**, save it a Local Database which we’ll be employing **Room**, and finally displaying this data in a **recyclerview** to the user screen, implementing the **ViewModel**.
 
-**LiveData**: 
+**LiveData :**: 
 It notifies views of any database changes. Use LiveData to build data objects that notify views when the underlying database changes.
 
-**Room**: 
+**Room :** 
 It is a SQLite object mapping library. Use it to Avoid boilerplate code and easily convert SQLite table data to Java objects. Room provides compile time checks of SQLite statements and can return RxJava, Flowable and LiveData observables.
 
-**recyclerview**:
+**recyclerview :**
 RecyclerView makes it easy to efficiently display large sets of data. You supply the data and define how each item looks, and the RecyclerView library dynamically creates the elements when they're needed.
 
-**ViewModel**: 
+**ViewModel :** 
 It manages UI-related data in a lifecycle-conscious way. It stores UI-related data that isn't destroyed on app rotations.
 
 
