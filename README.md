@@ -5,7 +5,9 @@
 # Features
 
   Add Note
+  
   Delete Note
+  
   Edit Note
 
 # Application Images
@@ -18,7 +20,7 @@
 
 This application will be able to take data input from the user using **LiveData**, save it a Local Database which we’ll be employing **Room**, and finally displaying this data in a **recyclerview** to the user screen, implementing the **ViewModel**.
 
-**LiveData :**: 
+**LiveData :** 
 It notifies views of any database changes. Use LiveData to build data objects that notify views when the underlying database changes.
 
 **Room :** 
