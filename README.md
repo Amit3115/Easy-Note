@@ -1,6 +1,6 @@
 # Easy-Note
 
-🗒️ Easy Note App helps to to create your notes. You can 📝 edit and ❌ delete notes too.
+🗒️ Easy Note App helps you to create your notes. You can 📝 edit and ❌ delete notes too.
 
 # Features
 
